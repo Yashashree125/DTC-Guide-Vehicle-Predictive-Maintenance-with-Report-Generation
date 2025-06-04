@@ -7,11 +7,11 @@ This project presents an intelligent, end-to-end platform for **predictive maint
 - **Predictive Fault Detection**: Real-time prediction of vehicle failures using OBD sensor data.
 - **DTC Classification**: Accurate identification of Diagnostic Trouble Codes using machine learning models.
 - **Synthetic Data Balancing**: SMOTE and GAN-based augmentation to address data imbalance.
-- **RAG-Based Diagnostic Report Generation**: Combines structured and unstructured data to generate fault-specific, human-readable reports.
+- **RAG-Based Diagnostic Report Generation**: Combines structured and unstructured data of vehicle manuals to generate fault-specific, human-readable reports with LLM [GPT-4o].
 - RAG Components: FAISS, LangChain-style pipeline (custom-built)
 
 
-## 📄 Check Publications
+## 📄 Research Outputs
 
 1. [A Comprehensive Review on Artificial Intelligence-Driven Predictive Maintenance in Vehicles: Technologies, Challenges, and Future Research Directions](https://link.springer.com/article/10.1007/s42452-025-06681-3)
 
