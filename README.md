@@ -1,8 +1,6 @@
-# DTCGuide-Vehicle-Predictive-Maintenance-with-Report-Generation
+# DTC Guide-Vehicle-Predictive-Maintenance-with-Report-Generation
 
-# Vehicle Predictive Maintenance and Diagnostic Report Generation System
-
-This project presents an intelligent, end-to-end platform for **predictive maintenance and real-time fault diagnosis** in the automotive sector. Leveraging machine learning and Retrieval-Augmented Generation (RAG), the system enables early detection of mechanical issues, predicts Diagnostic Trouble Codes (DTCs), and generates comprehensive diagnostic reports based on OBD data. Designed as a full-stack application, it integrates seamlessly into service centers, fleet operations, and OEM systems.
+This project presents an intelligent, end-to-end platform for **predictive maintenance and real-time fault diagnosis** in the automotive sector. Leveraging machine learning and Retrieval-Augmented Generation (RAG), the system enables early detection of mechanical issues, predicts Diagnostic Trouble Codes (DTCs), and generates comprehensive diagnostic reports based on OBD data. Designed as a full-stack application, it integrates seamlessly into service centres, fleet operations, and OEM systems.
 
 ## 🔧 Features
 
@@ -14,7 +12,9 @@ This project presents an intelligent, end-to-end platform for **predictive maint
 
 
 ## 📄 Check Publications
-1. A Comprehensive Review on Artificial Intelligence-Driven Predictive Maintenance in Vehicles: Technologies, Challenges, and Future Research
-Directions
-2. Enhancing predictive maintenance in automotive industry: addressing class imbalance using advanced machine learning techniques
+
+1. [A Comprehensive Review on Artificial Intelligence-Driven Predictive Maintenance in Vehicles: Technologies, Challenges, and Future Research Directions](https://link.springer.com/article/10.1007/s42452-025-06681-3)
+
+2. [Enhancing predictive maintenance in automotive industry: addressing class imbalance using advanced machine learning techniques](https://link.springer.com/article/10.1007/s42452-025-06827-3)
+
 
