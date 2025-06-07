@@ -1,0 +1,1179 @@
+Symbol Meaning Symbol Meaning
+Lights up – power steering faul- Lights up – speed limiter is regulat-
+ty » page 33 ing the vehicle speed » page 97
+Flashes – steering column lock not Flashes – the speed limiter's set lim-
+unlocked » page 33 it has been exceeded » page 97
+Flashes – steering column lock faul- Main beam or headlight flasher
+ty » page 33 switched on » page 46
+Keyless Access – no key Seat belt on the rear seat not in
+found » page 25 use » page 35
+Keyless Access – start prob- Seat belt on the rear seat in
+lem » page 88 use » page 35
+Petrol engine control faul- Seat belt on the rear seat not in
+ty » page 105 use » page 35
+Emission control system faul- Illuminated - unoccupied rear
+ty » page 106 seat » page 35
+Front passenger airbag activa- Flashes – rear seat belt not fas-
+ted » page 44 tened » page 35
+Flashes in conjunction with – Seat belt on the rear seat in
+key-operated switch for airbag de- use » page 35
+activation faulty » page 44
+Low outside tempera-
+Front passenger airbag deactiva- ture » page 60, » page 61
+ted » page 44
+Service events » page 124
+Airbag system faulty » page 43
+Lights up for 4 s and then flashes – Engine was shut down automatically
+airbag or belt tensioner with diag- by START-STOP » page 88
+nostic device switched Engine was not shut down automat-
+off » page 43 ically by START-STOP » page 88
+ASR deactivated » page 95 Speed limiter faulty » page 98
+Lights up – ESC or ASR faul- Lights up – speed limiter activa-
+ty » page 95 ted » page 97
+Flashes – ESC or ASR interven- In conjunction with – speed limit-
+ing » page 95
+er is regulating the vehicle
+Front Assist deactivated » page 96 speed » page 97
+Front Assist not available » page 96 Cruise control system faul-
+ty » page 99
+Left turn sig-
+nal » page 46, » page 47 Cruise control activated » page 98
+Right turn sig- Along with – cruise control sys-
+nal » page 46, » page 47 tem controls the driving
+speed » page 98
+Rear seat belt in use » page 35
+Front Assist deactivated » page 96
+Front fog light switched Front Assist not available » page 96
+on » page 47
+Front Assist starting up » page 96
+Gear lever is locked » page 89
+Safe distance not kept » page 96
+The cruise control system controls
+the driving speed » page 98
+Warning lights overview 13Correct and safe New brake pads
+New brake pads do not provide optimum braking
+during the first 800 km – they must be worn off
+Introductory notes for correct first. So drive with extra care.
+use New tyres
+New tyres do not provide optimum grip for the first
+—Read this Owner's Manual carefully to ensure that 500 km. So drive with extra care.
+you are using the vehicle correctly. Always keep
+this Owner's Manual in the vehicle.
+—When using the vehicle, always observe the gen- Regular checks
+erally binding legal provisions applicable in the
+country of use, those for transporting children,
+What you should be mindful of before driving?
+switching off airbags, using tyres, road traffic, etc.
+A vehicle with technical defects can increase the risk
+—Do not exceed the maximum permissible weights
+of accidents and injuries.
+and loads.
+Repair any defects before driving. If required, seek
+—Do not exceed the maximum permissible roof
+assistance from a specialised garage.
+load.
+Pay special attention to the following points:
+—Use the specified fuel and operating fluids.
+—Drive on roads that meet the vehicle technical pa- —Are the tyres undamaged?
+rameters. Obstacles that exceed the vehicle's —Is the tyre tread sufficient?
+ground clearance » page 131 can damage the ve-
+—Is the tyre pressure sufficient?
+hicle.
+—Do the headlights, brake and turn signals work?
+—Take care when carrying out operational, mainte-
+nance and self-assistance tasks to avoid damage —Is the windscreen in good condition?
+or injury. If required, seek assistance from a speci- —Are the engine oil, brake fluid and coolant levels
+alised garage. OK?
+—Work on the vehicle’s safety systems (seat belts —Is the air intake in the engine compartment free
+and airbag system) may only be carried out by from obstruction?
+a specialist garage.
+—Are the air outlet nozzles and air intake in front of
+—When using accessories, please follow the in- the windscreen free from obstruction?
+structions in the accessory manufacturer’s man-
+—Are the windscreen wiper and washer system and
+ual. please follow the instructions in the accesso-
+windscreen wiper blades functional?
+ry manufacturer’s manual.
+—Is the windscreen washer fluid level sufficient?
+—Always observe the service intervals.
+—Are the windscreen wiper blades frozen?
+—Are all seat belt system components in good
+working order? Are the seat belts clean and the
+New vehicle or new parts
+buckles free from obstruction?
+—Are the spoilers undamaged?
+New vehicle – running in the engine
+—Are parts and components of the vehicle still visi-
+The driving style during the first 1,500 km deter-
+bly attached?
+mines the quality of the engine run-in process.
+—Are there oil stains or other operating fluids under
+—For the first 1,000 km load the engine to maxi-
+the vehicle?
+mum 3/4 of the highest permissible engine speed
+and avoid using a trailer.
+—Over the next 500 km the engine speed can be
+Incorrect vehicle adjustments
+slowly increased.
+Depending on the driving style and operating condi-
+Incorrect changes and maintenance can cause mal-
+tions, the engine will consume up to 0.5 l of oil per
+functions and affect the vehicle's safety-relevant
+1,000km. Consumption may be higher over the first
+and other functions.
+5,000km.
+14 Correct and safe—Adjustments, repairs and technical changes to the When working in the engine compartment
+vehicle should only be carried out by a specialist
+—Keep children away from the engine compart-
+garage.
+ment.
+—Never place additional insulation material over
+—Do not touch the radiator fan. The radiator fan
+the engine, e.g. a cover.
+may start up automatically, even when the igni-
+tion is off.
+—Do not touch electrical cables. Avoid short circuits
+Sensor and camera mainte-
+in the electrical system, especially on the 12-volt
+nance vehicle battery.
+—Do not smoke near the engine, and keep open
+flames and sparks away from it.
+Certain functions are supported by sensors and cam-
+eras inside and outside the vehicle. —If you are working in the engine compartment
+with the engine running, beware of rotating en-
+Accessories such as bike racks installed at the rear of
+gine parts and electrical equipment.
+the vehicle can impair the functioning of the sensors
+and cameras —Do not leave any objects in the engine compart-
+ment.
+—Keep the sensors and cameras for the assist sys-
+tems clean and do not cover or stick anything
+over them.
+Handling fluids
+—If you suspect that the sensors and the cameras
+may be damaged, seek assistance from a special-
+ist garage. Your vehicle uses various operating fluids that can
+affect health or the environment when emitted.
+These are fuel, oils, acid from the 12-volt vehicle
+battery, coolant and brake fluid.
+Engine compartment
+—Only use operating fluids outdoors or in well-ven-
+tilated areas. If necessary, wear protective equip-
+Before you open the bonnet
+ment.
+Risk of scalding! Do not open the bonnet if steam or
+—Do not use or check operating fluids with the en-
+coolant is escaping.
+gine running.
+—Stop the engine and allow it to cool.
+—In the event of contact with operating fluids,
+—Remove the ignition key. On vehicles with a key- wash affected areas with warm water. If necessa-
+less locking system, open the driver's door. ry, seek medical assistance.
+—Engine oil leaks can cause fire. Wipe away any
+Explanation of the warning symbols on the sticker
+leaks using a cloth.
+in the engine compartment
+—Store cloths soiled with brake fluid in a well-ven-
+tilated place until disposal. Cloths with residues of
+engine oil can ignite and cause a fire.
+12-volt vehicle battery
+Handling the 12-volt vehicle battery
+The acid in the 12-volt vehicle battery is very caus-
+tic. Incorrect handling of the 12-volt vehicle battery
+can cause an explosion, fire, chemical burns or poi-
+Do not touch the engine compartment
+soning!
+Beware of hot parts!
+—When handling the 12-volt vehicle battery, eye
+Beware of rotating parts! and skin protection must be worn.
+Risk of electric shock! —Do not tilt the 12-volt vehicle battery, as it may
+leak the battery acid.
+Use prescribed engine oil
+Sensor and camera maintenance 15—If battery acid comes into contact with skin, wash Sitting safely
+the affected area with water for a few minutes.
+Seek medical assistance without delay.
+For the safety of the occupants and to reduce the
+—Do not charge a frozen or thawed 12-volt vehicle risk of injury in the event of an accident, follow the
+battery. Replace a frozen 12-volt vehicle battery. instructions below:
+—Do not use a damaged 12-volt vehicle battery. —Place the backrests upright. If the front passenger
+—Risk of short circuit Do not connect the poles of seat backrest has been folded forward, only the
+the 12-volt vehicle battery. seat behind the driver's seat may be used for
+transporting passengers.
+—Engage the rear seat backrests correctly.
+Using vehicle electrical sock- —Adjust the height-adjustable headrest so that the
+top of the headrest is as close as possible to the
+ets
+top of the head.
+—The headrest on the occupied rear seat should not
+Incorrect use of the sockets can lead to life-threat-
+be in the lower position, but the upper edge of
+ening electric shock or fire.
+the headrest should be at the same height as the
+—The sockets can become warm during operation. top of the head.
+Do not touch the sockets that have become
+—Keep your feet in the footwell.
+warm.
+—Use the entire seat.
+—Protect the sockets from liquids.
+—Do not lean forward or sit to the side.
+—If fluid does enter the power socket, dry it out
+completely before reusing. —Do not place any limbs out the window.
+—Do not insert any objects into the socket contacts.
+Before your journey
+Adults and children, cargo and objects – everything
+has its place in the vehicle. Follow the instructions
+below to insure optimal occupant protection in the
+event of an accident.
+Before you set off
+—Adjust the driver's seat longitudinally so that the
+—Ensure that you have a good view of outside the
+pedals can be easily reached with slightly bent
+vehicle. Mount external devices so that they do
+legs.
+not obstruct your view, e.g. a navigation system.
+—Adjust the rear-view mirrors. —Adjust the steering wheel so that the distance A
+between the steering wheel and the breastbone is
+—Close all doors, the bonnet and the boot lid.
+at least. 25 cm.
+—Assume the correct sitting position, adjust the
+—Adjust the angle of the backrest so that your
+seats correctly and fasten the seat belt properly.
+hands rest on the top of the steering wheel with
+Ensure that all passengers do the same.
+your arms slightly bent.
+—Always keep your seat belt on while driving.
+—Move the passenger seat back as far as possible.
+—Only one person can be secured with one seat The front passenger must maintain a distance
+belt. from the dashboard at least 25 cm.
+—Make sure that the seat belts are not trapped,
+e.g.in the door or in the seat.
+—Check the seat belts, their locks and attachment
+points for damage.
+16 Correct and safeCorrect belt webbing arrange-
+ment
+—Hold the steering wheel with both hands on the
+outer edge in the “9 o'clock” and “3 o'clock” posi-
+tion.
+The webbing arrangement is extremely important to
+ensure that the seat belts offer the best possible Securing children properly
+protection.
+—The shoulder strap must run over the middle of —Do not carry a child on your lap, and do not secure
+the shoulder, never over the neck, and must lie the child and yourself with one seat belt.
+firmly against the body (it must not run over loose
+—Only transport children in a suitable child
+layers of clothing).
+seat » page 37.
+—The lap belt part must be placed in front of the
+pelvis and fit tightly. Children under 150 cm tall will not be properly pro-
+tected without a child seat. Children who have been
+—For pregnant women, the lap belt part must be as
+inadequately secured can be thrown through the ve-
+low as possible on the pelvis, so that there is no
+hicle in the event of an accident or a sudden ma-
+pressure on the abdomen.
+noeuvre. This can result in life-threatening injuries
+—The webbing must not be pinched or twisted or to yourself and other occupants.
+rub against sharp edges.
+If children lean forward or assume an incorrect sit-
+—The webbing must not pass over solid or fragile ting position during the journey, they are more likely
+objects under clothing, such as a key ring, etc. to be injured in the event of an accident. This is es-
+—The tongue may only be inserted into the buckle pecially true for children who are carried in the pas-
+of the associated seat. senger seat – if the airbag system triggers, they
+could be seriously injured or killed.
+—The webbing must be tight. Therefore, do not at-
+tach clamps or similar items to the webbing to
+Child secured in an incorrect sitting position is at
+adjust the seat belt according to body size.
+risk from the side airbag
+Correct steering wheel posi-
+tion
+Incorrect steering wheel position can lead to serious
+injuries to the arms, hands and head if the airbag de-
+ploys.
+The child should not be in the deployment area of
+the side airbag.
+Correct belt webbing arrangement 17Passenger seat
+Category
+With activated front airbag Without activated front airbaga)
+a) If the passenger seat is equipped with the ISOFIX system eyelets, it is suitable for fitting an ISOFIX child seat
+with “Semi-Universal” approval.
+Rear seats
+Category
+Outer seats Centre seat
+0
+IL X
+(up to 10 kg)
+1 IL
+X
+(9–18 kg) IUF
+2
+IL X
+(15–25 kg)
+3
+IL X
+(22–36 kg)
+“IL” The seat is suitable for ISOFIX child seats with “Semi-Universal” approval.
+“IUF” The seat is suitable for forward-facing child seats permitted for use in this weight category.
+“X” The seat is not equipped with ISOFIX system eyelets.
+Child seat fastened with a safety belt
+Overview of applicability of child seats in accordance with the ECE-R 16 and AIS072 regulations.
+Passenger seat
+Category
+With activated front airbaga) Without activated front airbag
+0
+X Ub)
+(up to 10 kg)
+0+
+X Ub)
+(up to 13 kg)
+1
+UF Ub)
+(9–18 kg)
+2
+UF X
+(15–25 kg)
+3
+UF X
+(22–36 kg)
+a) Adjust the height-adjustable front seat as high as possible.
+b) Applies to rear-facing child seats.
+Rear seats
+Category
+Outer seats Centre seat
+0
+U X
+(up to 10 kg)
+0+
+U X
+(up to 13 kg)
+1
+U X
+(9–18 kg)
+2
+U X
+(15–25 kg)
+Fasteners for child seats 39Rear seats
+Category
+Outer seats Centre seat
+3
+U X
+(22–36 kg)
+“U” The seat is suitable for child seats in the “Universal” category permitted for use in this weight group.
+“UF” The seat is suitable for forward-facing child seats in the “Universal” category and is permitted for use in
+this weight group.
+“X” The seat is not suitable for children in this weight group.
+Child seat fastened with a safety belt
+Overview of applicability of child seats in accordance with the GSO 1709/2005 regulation.
+Passenger seat
+Category
+With activated front airbaga) Without activated front airbag
+0
+X Ub)
+(up to 10 kg)
+1
+UF Ub)
+(9–18 kg)
+2
+UF X
+(15–25 kg)
+3
+UF X
+(22–36 kg)
+a) Adjust the height-adjustable front seat as high as possible.
+b) Applies to rear-facing child seats.
+Rear seats
+Category
+Outer seats Centre seat
+0
+U X
+(up to 10 kg)
+1
+U X
+(9–18 kg)
+2
+U X
+(15–25 kg)
+3
+U X
+(22–36 kg)
+“U” The seat is suitable for child seats in the “Universal” category permitted for use in this weight group.
+“UF” The seat is suitable for forward-facing child seats in the “Universal” category and is permitted for use in
+this weight group.
+“X” The seat is not suitable for children in this weight group.
+i-Size
+Passenger seat Rear seats
+With activated front air- Without activated front
+Outer seats Centre seat
+bag airbag
+X X i-U X
+“i-U”The seat is suitable for forward-facing and rear-facing i-Size child seats in the “Universal” category.
+40 Restraint systems and airbags“X” The seat is not suitable for i-Size child seats in the “Universal” category.
+Overview tached to the TOP TETHER system holding eye-
+let.
+Follow the instructions and notes at the beginning The belt fastened into the TOP TETHER System re-
+of this chapter » page 36, What you should be mind- stricts the movement of the upper part of the child
+ful of. seat.
+ISOFIX
+WARNING
+· Do not attach any other child seats, belts or ob-
+jects to the mounting eyelets used to install the
+child seat with the ISOFIX System provided.
+The ISOFIX System allows the child seat to be instal-
+led quickly and securely. The eyelets for installing
+the child seat using the ISOFIX System are located
+on the outer rear seats. Mounting eyelets on the rear seats
+A child seat that uses the ISOFIX System can only be
+installed in the vehicle if it is approved for this vehi- The belt mounting eyelets are located on back of the
+cle type. Further information can be obtained from rear seats A.
+a Volkswagen Partner or from a list of vehicles inclu-
+ded with the child seat.
+Airbags
+Use
+The airbag system offers additional occupant pro-
+tection to the seat belts during severe frontal and
+side collisions.
+The airbag system is not a substitute for the seat
+belts.
+Mounting eyelets for installing the child seat using
+the ISOFIX System. What you should be mindful of
+TOP TETHER The airbag system can only perform its protective
+function if all occupants are belted in and seated in
+WARNING
+the correct position.
+· Child seats that use the TOP TETHER system WARNING
+should only be used on those seats that are fit-
+ted with holding eyelets bearing the TOP TETH- Danger of serious or fatal injuries!
+ER symbol. · Maintain the correct seating position.
+· Only attach one fastening strap on the child · Do not place your limbs in the airbag deploy-
+seat to the holding eyelet in the TOP TETHER ment area.
+system.
+· No persons, animals or objects such
+· When attaching the child seat with the TOP as » page 43 cup holders or hangers for
+TETHER system, no other object must be at-
+Airbags 41clothes may be in the deployment area of the the vehicle and the type of object the vehicle col-
+airbags. lides with (hard or soft). Therefore, even visible ex-
+tensive damage to the vehicle does not always mean
+WARNING that the airbag should have been activated.
+Risk of impairing the front airbags! The deceleration of the vehicle in the event of an
+· Do not cover or stick anything over the steering impact registered by the control unit is decisive for
+the activation of the airbag system. If the measured
+wheel or the dash panel. This can prevent the
+impact deceleration does not reach the specified
+front airbags from deploying.
+reference values, the airbags are not activated, even
+though the accident may cause very extensive de-
+WARNING
+formation of the vehicle.
+Risk of impairing the side airbags!
+Damage to the vehicle, the cost of repairs or even
+· Do not exert excessive force, e.g. impacts, on the absence of damage to the vehicle in an accident
+the backrests. may not be an indicator of whether or not an airbag
+· Do not use seat covers that have not been ap- should be deployed.
+proved by Volkswagen. As the circumstances of individual impacts can vary
+· Any damage to seat covers at the side airbag lo- considerably, it is not possible to define a range of
+cation must be repaired by a specialist garage. vehicle speeds and reference values. Therefore, it is
+not possible to cover all possible types and angles of
+Volkswagen recommends using seat covers impact that would lead to airbag activation.
+from the Volkswagen Genuine Accessories
+range. Airbags can only be activated once and only in cer-
+tain situations.
+In some situations it is necessary to deactivate the
+Seat belts are always available to provide protection
+front passenger airbag, if the car is equipped with
+in situations where the airbags do not deploy or
+a front passenger front airbag deactivation
+have already deployed.
+switch » page 44.
+For example, if the vehicle collides with another ve-
+WARNING hicle or is hit by another one after the initial colli-
+sion.
+Cleaning agents containing solvents cause the sur-
+face of the airbag units to become porous. In an The airbag system is part of the overall passive safe-
+airbag deployment accident, the porous materials ty concept of the vehicle. The airbag system can on-
+can become loose and cause serious injury. ly work effectively if the occupants are wearing their
+· Never clean the dashboard or airbag covers with seat belts correctly and are in the correct seating
+position.
+solvent-based cleaning agents.
+WARNING
+When the airbag is activated, other injuries such as
+Functionality
+swelling, bruising, burns and abrasions are not
+ruled out. Airbag activation can also cause friction-
+Airbags are designed to protect the occupants of al heat.
+a vehicle in frontal and side impacts of a certain in-
+tensity by reducing their movement in the direction WARNING
+of impact.
+Airbags do not provide protection for the arms and
+When activated, the airbag is inflated within milli- lower body.
+seconds by a gas generator. This causes the airbag
+covers to break and the airbags to inflate forcefully WARNING
+to cover their areas of deployment.
+Airbag activation releases dust or vapour. This is
+As the occupant wearing a seat belt begins to sink normal and not a sign of a fire in the vehicle.
+into the inflated airbag, the gas inside the airbag be-
+gins to escape to trap the occupant and slow his or Fine dust can irritate the skin and mucous mem-
+her movement. This can reduce the risk of serious branes of the eyes. It can also lead to respiratory
+and fatal injuries. problems, especially in people who suffer or have
+suffered from asthma or other respiratory disorders.
+Important factors for airbag activation include the
+type of accident, the angle of impact, the speed of
+42 Restraint systems and airbagsOperating conditions for the windscreen washer Wiping and washing the rear window
+system
+✓ Bonnet closed
+✓ Boot lid closed
+Operation
+WARNING
+Risk of accident! Washing and wiping (spring-loaded position)
+At low temperatures, windscreen washer fluid can
+Wiping
+freeze on the windscreen and restrict visibility.
+Switching off
+· Only use the windscreen washer when the
+windscreen is warm.
+Automatic rear window wiping function
+Wiping and washing the windscreen When the windscreen wipers are switched on, the
+rear window is automatically wiped when the re-
+verse gear is engaged.
+Settings
+The automatic window wiping function can be acti-
+vated or deactivated in the following Infotainment
+system menu:
+10″ Infotainment system: Car Mirrors and wipers
+Fast wiping
+Slow wiping Refilling windscreen washer fluid
+Depending on vehicle equipment:
+—Intermittent wiping WARNING
+—Automatic wiping controlled by the rain sen- Risk of accident!
+sor
+· Use windscreen washer fluid that is suitable for
+Switching off
+the climatic conditions.
+Single windscreen wipe (sprung position)
+NOTICE
+A Setting the wiping speed for the position
+Washing and wiping (spring-loaded position) Risk of damage to the washer
+· Do not remove the strainer from the neck of the
+tank when refilling the washer fluid.
+NOTICE
+Risk of damage to the headlights
+· Only use washer fluid that does not damage poly-
+carbonate.
+NOTICE
+Risk of damage to the engine compartment compo-
+nents
+54 Lighting, windscreen wipers and washers· Close the container after refilling the windscreen
+washer fluid.
+The windscreen washer tank is in the engine com-
+partment » page 11.
+Tank volume is 3 l.
+—Open the engine compartment lid » page 101.
+—Gently open the top of the sealing cap.
+—Top up the windscreen washer fluid.
+—Close the tank sealing cap. —Press the lock A to slide the windscreen wiper
+blade B out of the holder and remove it from the
+windscreen wiper arm.
+Troubleshooting
+—Put the new windscreen wiper blade on the wind-
+screen wiper arm and push it into the mount until
+Windscreen washer fluid too low it clicks into place.
+illuminates together with —Fold the windscreen wiper arm back onto the
+windscreen.
+or:
+illuminates together with
+—Top up the windscreen washer fluid.
+Frozen windscreen wipers
+—Carefully detach frozen windscreen wipers from
+the windscreen before switching on the ignition
+and remove any snow and ice.
+Folding down windscreen wiper
+arms and replacing windscreen
+wiper blades
+NOTICE
+Risk of damage to the windscreen wipers and the
+engine compartment flap!
+· Close the engine compartment flap before the
+windscreen wiper arms are folded away from the
+windscreen.
+· Do not turn on the ignition when the windscreen
+wiper arms are folded away.
+CAUTION
+Risk of an accident!
+· Change the windscreen wiper blades once or
+twice a year.
+—Fold the windscreen wiper arm away from the
+windscreen.
+Windscreen wipers and washers 55Heating and air condition- Operation
+ing system
+Manual air conditioning
+What you should be mindful of
+—It is recommend to keep the interior temperature
+no more than 5 °C lower than the outdoor tem-
+perature.
+A Setting the temperature
+—It is recommended to switch the cooling system
+B Setting the fan speed
+off about 10 minutes before the end of the jour-
+ney to prevent odour formation. C Setting the direction of the air outlet
+Switching the cooling system on/off
+—It is recommended to have the air conditioner dis-
+infected once a year. Switching the recirculated air mode on/off
+Switching the rear window heater
+WARNING
+on/off » page 58, Operation
+Danger of misting!
+· Always keep the fan on. Cooling system
+When the cooling system is switched on, the tem-
+WARNING perature and humidity in the vehicle will drop.
+Risk of an accident! Switching on the cooling system prevents the win-
+dows from misting up.
+In recirculation mode, there is no fresh air supply
+from the outside. This can result in loss of driver
+Automatic activation of the cooling system
+attention and fogging up of windows.
+Automatic activation of the cooling system prevents
+· Keep the recirculation mode switched on for the windows from misting up. It turns on when the
+a short time only. following conditions are met:
+✓ The fan is on
+Cooling system operating condi- ✓ The air distribution setting is in the position.
+tions
+In this case, the recirculation mode is switched off
+and cannot be switched on.
+✓ Outside temperature above 2 °C
+Or:
+✓ Running engine
+✓ Fan switched on ✓ The fan is on
+✓ The air distribution setting is not in the posi-
+Indicator light in the button may light up, tion.
+even if all the conditions for turning on the ✓ Recirculated air mode is on
+cooling are not met. The cooling system switches on
+when the activation conditions are met.
+Recirculated air mode
+Recirculated air mode prevents contaminated out-
+side air entering the vehicle.
+Briefly switching on recirculated air mode can in-
+crease the cooling effect.
+Recirculated air mode is automatically switched on
+when the following conditions are met::
+✓ The cooling is on
+✓ The fan is on
+56 Heating and air conditioning system✓ The temperature control is set to the minimum In recirculation mode, there is no fresh air supply
+temperature. from the outside. This can result in loss of driver
+✓ The air distribution setting is not in the posi- attention and fogging up of windows.
+tion. · Keep the recirculation mode switched on for
+a short time only.
+During operation of the air conditioning sys-
+tem, there may be an automatic increase in
+the engine idle speed.
+Cooling system operating condi-
+tions
+Troubleshooting
+✓ Outside temperature above 2 °C
+✓ Running engine
+Water under the vehicle
+When the cooling system is switched on, water can ✓ Fan switched on
+drip from the air conditioning system. This is not
+a leak. After pressing the button, the symbol
+will appear on the Climatronic display even if
+Fogging the conditions for switching on the cooling are not
+met. The cooling system switches on when the acti-
+—Increase the blower speed, switch on the cooling
+vation conditions are met.
+system, and turn the air distribution to the wind-
+screen.
+Automatic deactivation of the cooling system Operation
+If the coolant temperature is too high, the cooling
+system may switch off automatically. This ensures
+sufficient engine cooling.
+Climatronic automatic air con-
+ditioning system
+What you should be mindful of
+—It is recommend to keep the interior temperature
+no more than 5 °C lower than the outdoor tem- A Climatronic display
+perature. B Setting the temperature
+—It is recommended to switch the cooling system C Interior temperature sensor
+off about 10 minutes before the end of the jour- D Setting the fan speed
+ney to prevent odour formation.
+When the fan speed is completely reduced, the
+—It is recommended to have the air conditioner dis- Climatronic switches off.
+infected once a year.
+E Setting the direction of the air outlet
+—If the car is equipped with Climatronic automatic
+Switch the windscreen ventilation/defrosting
+air conditioning, it is recommended to use the au-
+mode on/off
+tomatic mode to reliably and efficiently achieve
+Switching the rear window heater
+the desired interior conditions.
+on/off » page 58, Operation
+WARNING Switching the cooling system on/off
+Danger of misting! When the cooling system is switched on, the
+temperature and humidity in the vehicle will
+· Always keep the fan on.
+drop.
+WARNING Switching on the cooling system prevents the
+windows from misting up.
+Risk of an accident!
+Climatronic automatic air conditioning system 57Switch automatic mode on Operation
+This function keeps the temperature constant
+and prevents the windows from misting. Rear window heating
+Switching the recirculated air mode on/off —Press the button on the air conditioning con-
+Recirculated air mode prevents contaminated trol panel.
+outside air entering the vehicle. Rear window heating switches off automatically af-
+ter a certain period.
+If the temperature setting is outside the range, one
+of the following icons will be displayed on the Cli- If the engine is switched off when the heating is on
+matronic display: and turned back on again within about 10 minutes,
+heating continues.
+LO Maximum cooling power
+HI Maximum heating power
+During operation of the air conditioning sys- Troubleshooting
+tem, there may be an automatic increase in
+the engine idle speed.
+The indicator light on or below the button flashes
+Heating is not operational as the charge level of the
+12-volt vehicle battery is too low.
+Troubleshooting
+Water under the vehicle Seat ventilation
+When the cooling system is switched on, water can
+drip from the air conditioning system. This is not
+What you should be mindful of
+a leak.
+Fogging
+NOTICE
+—Switch on automatic mode.
+Risk of damage to the seats
+Or: · Do not kneel on the seats or otherwise apply con-
+—Increase the blower speed, switch on the cooling centrated pressure to them.
+system, and turn the air distribution to the wind- · Do not turn on the ventilation if:
+screen.
+—The seat is not occupied.
+Automatic deactivation of the cooling system —There are objects on the seat, such as a child
+If the coolant temperature is too high, the cooling seat.
+system may switch off automatically. This ensures
+—There are additional seat covers or protective
+sufficient engine cooling.
+covers on the seat.
+Heated windscreen
+Conditions
+Use ✓ Engine running
+Window heating is used to defrost or defog the
+glass.
+Operation
+Conditions —Press the button or button above the air con-
+ditioning control panel.
+✓ Engine running Ventilation is switched on at the maximum power
+level. Repeatedly pressing the button reduces the
+✓ Outside temperature is below approx. 35 °C
+ventilation power until it is deactivated.
+58 Heating and air conditioning systemThe ventilation power is indicated by the number of Driver information system
+illuminated indicator lights in the button.
+The ventilation power can be set with the ig- Analog instrument cluster
+nition on. Ventilation is only switched on after
+the engine has been started.
+Overview
+Instrument cluster overview
+A Tachometer with indicator lights
+B Display
+C Speedometer with indicator lights
+D Bar with indicator lights
+E Coolant temperature gauge
+F Multifunction button :
+—Setting the time
+—Display service interval
+G Multifunction button :
+—Resetting the odometer (trip)
+H Fuel gauge
+NOTICE
+Risk of serious damage to the engine and the ex-
+haust system!
+· Never empty the fuel tank completely!
+In poor visibility and with dipped headlights
+off, the brightness of the instrument cluster
+lighting is reduced to remind the driver to turn on
+the light.
+Display overview
+The following information is shown on the display:
+Analog instrument cluster 59Settings
+Setting the language
+The language can be set in the following menu in
+the Infotainment system:
+10″ Infotainment system: System Language selection
+Resetting the odometer
+—Tap the key on the instrument cluster.
+Display service interval
+A Time
+—Tap twice the key in the instrument cluster.
+B Selected gear and gear recommendation
+—Tap the key to display the service inter-
+Included depending on vehicle equipment:
+val.
+—Automatic gearbox selector lever positions —Tap the key again to exit the menu.
+C Menu, indicator lights and information
+Setting the time
+D Outside temperature
+—Tap the key on the instrument cluster.
+– low outside temperature
+E Total distance travelled —Tap the key on the instrument cluster.
+F trip – distance travelled after resetting the The hour setting is shown on the display.
+memory —Tap the key repeatedly and set the
+hours.
+Overview of the main menu items on the display
+—Tap the key to switch to the minute setting.
+—Driving data » page 62, Overview
+—Tap the key repeatedly and set the mi-
+—Audio – using radio and media nutes.
+—Phone – call list, accept or reject an incoming call The time can also be set in the following menu in
+—Vehicle – vehicle status » page 64, Display the Infotainment system:
+10″ Infotainment system: System Time and Date
+Setting the brightness of the instrument cluster
+Operation
+lighting
+The brightness of the instrument lighting is adjusted
+Operation via the multifunction steering wheel
+automatically based on the given lighting conditions.
+You can set the intensity of the instrument lighting
+in the following menu of the Infotainment system:
+10″ Infotainment system: Car Lights settings
+Switching between items / Returning to the
+main menu
+Confirming an item
+Selecting data / Setting values
+Displaying the previous menu (if one has been
+selected) / displaying the Phone menu
+60 Driver information systemDigital instrument cluster —Phone – call list, accept or reject an incoming call
+—Vehicle – vehicle status » page 64, Display
+Overview
+Instrument cluster overview Operation
+Overview of buttons/dials on the multifunction
+steering wheel
+A Central display area with selected information:
+—Speed
+—Time
+—Indicator lights Switching between items / Returning to the
+main menu
+—Reports and information
+Confirming an item
+—Outside temperature
+Selecting data / Setting values
+– low outside temperature
+Selecting and setting the display variant
+B Display area with selected information:
+—Coolant temperature gauge Resetting the odometer in the instrument cluster
+—Indicator lights Applies to instrument cluster with 8" display (Digital
+C Display area with selected information: display)
+—Fuel gauge
+—Indicator lights
+D Display area with additional information.
+E Display area with selected information:
+—Selected gear
+—Automatic gearbox selector lever positions
+(depending on the vehicle equipment)
+—Indicator lights
+—Assist systems information
+—Total distance travelled
+Selecting data
+—Range
+Confirming data
+NOTICE
+—To reset the odometer on the right-hand side of
+Risk of serious damage to the engine and the ex- the display, press the button, and then .
+haust system!
+—To reset the odometer on the left-hand side of
+· Never empty the fuel tank completely! the display, press the button, and then .
+—To reset the odometer in the middle of the dis-
+Overview of the main menu items on the display
+play, press the button, and then .
+—Driving data » page 62, Overview
+—To switch between information items, rotate the
+—Audio - radio control button.
+Digital instrument cluster 61—To confirm the information item selection, press Driving data
+the button.
+Overview
+Settings
+The driving data display works when the ignition is
+switched on.
+Setting the language
+The language can be set in the following menu in On the instrument cluster display
+the Infotainment system: Depending on vehicle equipment, the instrument
+cluster display shows information such as speed,
+10″ Infotainment system: System Language selection
+fuel consumption, range, etc.
+Setting the time
+In the Infotainment system
+Time is set in the following menu in the Infotain-
+10″ Infotainment system:
+ment system:
+10″ Infotainment system: System Time and Date
+Selecting and setting the display variant
+—Press the button on the multifunction steer-
+ing wheel
+—Select one of the following display options.
+A Average fuel consumption
+B Driving time
+C Distance travelled
+D Average speed
+E Range
+Memory
+The system saves the driving data in the following
+memories:
+From the start
+—Driving data from the time when the ignition is
+switched on to when it is switched off again is
+stored in the memory. If the journey is interrup-
+ted for more than 2 hours, the memory will be re-
+set.
+Digital
+Speed Long-term
+Sport (tachometer) —Driving data of all trips up to a total of 99 hours
+and 59 minutes driving time or 9,999 km driving
+Setting the brightness of the instrument cluster distance is stored in the memory. If one of the lis-
+lighting ted values is exceeded, the memory is reset.
+The brightness of the instrument lighting is adjusted
+From refuelling
+automatically based on the given lighting conditions.
+—Driving data from the time the fuel tank was last
+You can set the intensity of the instrument lighting
+filled is stored in the memory. The memory is re-
+in the following menu of the Infotainment system:
+set the next time the tank is filled.
+10″ Infotainment system: Car Lights settings
+62 Driver information systemOperation Troubleshooting
+Operation via the multifunction steering wheel Cruise control system fault
+illuminated
+—Seek the assistance from a specialist ga-
+rage.
+Activating/deactivating the cruise control
+—Press the button.
+Speed control does not take place when cruise con-
+trol is activated.
+Starting the cruise control
+—Press the button.
+Setting the speed
+Increasing the speed in 1 km/h steps
+Decreasing the speed in 1 km/h steps
+Increasing/decreasing the speed in 10 km/h
+steps
+Interrupting cruise control
+—Press the or buttons.
+Or:
+—Depress the brake pedal.
+Regulation is automatically interrupted when the
+ESC, ASR or Front Assist systems intervene.
+Resuming the cruise control
+—Press the button.
+If no speed is set, the current speed is adopted.
+Switching between the cruise control and the speed
+limiter
+—Press the button.
+Temporary acceleration
+—Depress the accelerator pedal.
+Releasing the accelerator pedal will cause the speed
+to drop again to the set speed.
+Cruise control system 99Park Assist systems Rear view camera
+Park Pilot parking aid Functionality
+Functionality When reversing, the Infotainment display will show
+the area behind the vehicle with orientation lines.
+An acoustic signal is activated if an obstacle is de-
+tected.
+Orientation lines
+The interval between the signals becomes shorter as
+the distance decreases. At a distance of less than 30
+cm, an uninterrupted tone is emitted.
+Operating conditions
+✓ The driving speed is below 15 km/h.
+Switching on/off
+A Distance about 40 cm
+Switching on
+B Distance about 100 cm
+—Engage reverse gear. C Distance about 200 cm
+Switching off The distance between the side lines corresponds ap-
+proximately to the vehicle width including mirrors.
+—Disengage reverse gear.
+Operating conditions
+Function restriction
+✓ Boot lid closed
+In the following cases, the system may not issue an
+obstacle warning, or the warning may be issued in- ✓ Ignition on
+correctly: ✓ The driving speed is below 15 km/h
+—Unfavourable weather conditions.
+—The detected obstacles moving.
+—Sensor signals are not reflected by the surface of Operation
+the obstacles.
+—Very small obstacle, e.g. a stone or a pillar. Switching on
+—Obstacle up to 30 cm high is too close behind the
+—Engage reverse gear.
+vehicle (approximately 50 cm or less).
+Switching off
+—Disengage reverse gear.
+Troubleshooting
+After switching on, the alarm sounds for 3 seconds, Limitations
+but there is no obstacle in the vicinity of the vehicle
+—Seek the assistance from a specialist garage. The camera image is distorted compared to the real-
+life view. The display may only be used to estimate
+the distance.
+100 Park Assist systemsSome objects are not sufficiently visible on the dis- Engine, exhaust system
+play, including narrow columns, wire mesh fences,
+and fuel
+grids or road bumps.
+Bonnet
+Opening the bonnet
+Before opening
+—Make sure the windscreen wiper arms are folded
+down onto the windscreen.
+—Keep away from the engine compartment.
+Opening
+—Pull the release lever underneath the dashboard.
+—Release the lock.
+—Open the bonnet.
+—Remove the bonnet stay from the holder and in-
+sert the end of the stay into the opening in the
+bonnet.
+Bonnet 101Closing If the engine oil needs to be topped up, use the oil
+indicated on the sticker at the front of the engine
+—Lift the bonnet.
+compartment.
+—Unhook the bonnet stay and insert it into the
+holder. Vehicles without an engine oil sticker:
+—Fold the bonnet down and release it from You can obtain information about the engine oil
+a height of 20cm. specification prescribed for your vehicle from a spe-
+cialist garage. If the engine oil needs to be topped
+—Check that the bonnet is closed.
+up, use this oil.
+NOTICE When using the prescribed oil, the level can be
+adjusted as often as required.
+· Do not press down on an unclosed bonnet.
+· Open and close the flap again. In an emergency
+If engine oil of the prescribed specification is not
+available, you can once add until the next scheduled
+oil change a maximum of 0.5 l of engine oil with the
+Engine oil
+following specifications:
+—VW 504 00, ACEA C3 a API SP, viscosity 0 W-30
+Specification
+Volkswagen recommends that the oil change
+is then carried out by a specialist ga-
+rage » page 5.
+Checking the fill level and topping
+up
+Depending on the driving style and operating condi-
+tions, the engine may consume up to 0.5 l/ 1000 km
+Consumption may be higher over the first 5,000km.
+Engine oil sticker
+—Regularly check the oil level.
+A Engine oil specifications Test conditions
+B Engine oil viscosity
+✓ Vehicle on a flat surface
+The engine oil sticker is located at the front of the
+✓ Engine switched off, at operating temperature
+engine compartment.
+Checking the fill level
+—Wait a few minutes for the engine oil to flow back
+into the oil sump.
+—Remove the dipstick and wipe with a clean cloth.
+—Insert the dipstick as far as it will go and pull it
+out again.
+—Read the oil level and push the dipstick back in
+again.
+Vehicles with an engine oil sticker:
+102 Engine, exhaust system and fuelor:
+flashes, simultaneously with illuminated
+—Check the engine oil level.
+The oil level is OK, the warning light continues to
+flash:
+—Stop the engine and seek assistance from a spe-
+cialist garage.
+Engine oil level too low
+—The oil level must be within the marked range.
+illuminates together with
+NOTICE
+Risk of damage to the engine and the exhaust sys- or:
+tem
+illuminates together with
+· The oil level must not be outside the marked Message indicates required engine oil top
+range. up.
+· If the oil level is below the marked area, do not —Check the engine oil level, top up with oil if re-
+continue driving, stop the engine and seek assis- quired.
+tance from a specialist garage.
+· If the oil level is above the marked area, continue Engine oil level too high
+driving with appropriate caution, and seek assis- illuminates together with
+tance from a specialist garage.
+· Do not use any oil additives.
+or:
+Refuelling illuminates together with
+Message indicates the need to reduce the
+—Unscrew the cover of the engine oil filler opening.
+engine oil level.
+—Top up the oil to the correct specifica-
+—Check the engine oil level.
+tion » page 102 in 0.5 litre portions.
+Engine oil level too high.
+—Check the oil level.
+—Screw on the cover of the engine oil filler open- —You may continue driving, exercising appropriate
+ing. caution.
+—Seek the assistance from a specialist garage.
+NOTICE
+Engine oil level sensor impaired
+Volkswagen recommends using approved engine oils
+in accordance with the relevant VW standard. The illuminates together with
+use of engine oils that do not comply with this
+standard could damage the engine.
+or:
+Volkswagen recommends engine oils from the illuminates together with
+Volkswagen Genuine Parts product range. Message indicates required engine oil top
+up.
+Changing
+—You may continue driving, exercising appropriate
+Volkswagen recommends that the oil change is then
+caution.
+carried out by a specialist garage » page 5.
+—Seek the assistance from a specialist garage.
+Troubleshooting
+Engine oil pressure too low
+flashes, simultaneously with illuminated
+Engine oil 103Coolant NOTICE
+There must be a small quantity of coolant in the
+Coolant temperature gauge tank.
+· Do not add coolant when the tank is empty.
+· Stop driving! Seek the help of a specialist garage.
+Refuelling
+CAUTION
+Risk of scalding!
+The cooling system is pressurised.
+· Do not open the cap of the coolant expansion
+tank while the engine is warm. Let the engine
+cool down.
+A Low temperature
+—Place a wipe on the lid of the tank and carefully
+—Avoid high engine speed. unscrew the lid.
+B Operating temperature —Refill with coolant with the correct specification.
+C High temperature —Screw on the cap until it clicks into place.
+—Avoid high engine speed.
+Specification
+To refill the coolant additive, use G12evo (TL 774 L).
+NOTICE
+Checking the fill level and topping
+up Risk of damage to the cooling system and the en-
+gine!
+Test conditions Adding coolant that does not conform to the correct
+specification can reduce the corrosion protection of
+✓ Vehicle on a flat surface the cooling system.
+✓ Engine switched off and cold
+Checking the fill level Troubleshooting
+Coolant level too low
+illuminates together with
+or:
+illuminates together with
+Message indicates the required coolant
+check.
+—Check the coolant level.
+The fill level must be within the marked range. If the coolant level is OK:
+—If the level is below the mark, top up the cool- —Check or change the radiator fan fuse » page 111.
+ant. If the fuse is OK but the indicator light lights up
+again:
+NOTICE
+—Do not continue driving! Seek the assistance from
+Danger of damage to the engine compartment! a specialist garage.
+· Do not top up the coolant above the marked area.
+The coolant could be forced out of the cooling
+system when heated.
+104 Engine, exhaust system and fuel
