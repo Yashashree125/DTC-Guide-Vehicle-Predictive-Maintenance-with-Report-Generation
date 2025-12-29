@@ -17,6 +17,6 @@ This project presents an intelligent, end-to-end platform for **predictive maint
 
 2. [Enhancing predictive maintenance in automotive industry: addressing class imbalance using advanced machine learning techniques](https://link.springer.com/article/10.1007/s42452-025-06827-3)
 
-3. [Automated vehicle fault diagnosis and report generation using hybrid machine learning with multi-step RAG approach]([https://link.springer.com/article/10.1007/s42452-025-06827-3](https://link.springer.com/content/pdf/10.1007/s10791-025-09823-8.pdf)
+3. [Automated vehicle fault diagnosis and report generation using hybrid machine learning with multi-step RAG approach](https://link.springer.com/content/pdf/10.1007/s10791-025-09823-8.pdf)
 
 
